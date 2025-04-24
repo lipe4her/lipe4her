@@ -8,10 +8,10 @@
       Hi there! I'm Lipe!
   </p>
       <br>
-
-    <div align="center">
+<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhwMjRxdWo3OTI1cDlqYmIxdm5meGpxZGlsZjQyMmlicGtrc2R3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RoOozGUtMbJOE/giphy.gif" alt="Cool GIF" />
 </div>
+  
 
 <div align="center">
   <a href="https://git.io/typing-svg">
