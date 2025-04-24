@@ -8,8 +8,7 @@
       Hi there! I'm Lipe!
       <br>
      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&pause=1000&color=F7F7F7&width=500&height=100&lines=Do+i+wanna+know%3F;if+this+feeling+flows+both+ways;sad+to+see+you+go...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F6F6&width=435&lines=Do+I+wanna+know;If+this+feeling+flows+both+ways%3F;Sad+to+see+you+go;Was+sorta+hoping+that+you'd+stay;Baby%2C+we+both+know;That+the+nights+were+mainly+made;For+saying+things+that+you+can't+say+tomorrow+day;Crawling+back+to+you.)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipe4her/lipe4her/output/github-contribution-grid-snake-dark.svg">
