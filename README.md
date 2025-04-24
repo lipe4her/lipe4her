@@ -39,7 +39,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      サイトの削除
     </b>
       <br>
       Hi there! I'm Lipe!
@@ -54,7 +54,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://imgur.com/vW7XHSU" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-black" />
