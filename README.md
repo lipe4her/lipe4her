@@ -1,9 +1,7 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&section=header
 
 
 
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&section=header)
-
-<div align="center">
   <samp>
     <b>
       サイトの削除
