@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F6F6&width=435&lines=Do+I+wanna+know;If+this+feeling+flows+both+ways%3F;Sad+to+see+you+go;Was+sorta+hoping+that+you'd+stay;Baby%2C+we+both+know;That+the+nights+were+mainly+made;For+saying+things+that+you+can't+say+tomorrow+day;Crawling+back+to+you." alt="Typing SVG" />
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F6F6&width=435&lines=Tuturu" alt="Typing SVG" /></a>" alt="Typing SVG" />
   </a>
 </div>
 
