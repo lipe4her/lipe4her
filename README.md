@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&pause=1000&color=F7F7F7&width=80&height=80&lines=hai" alt="Typing SVG" />
   </a>
 </div>
-``
+
 
 
 <picture>
