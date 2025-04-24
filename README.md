@@ -12,12 +12,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhwMjRxdWo3OTI1cDlqYmIxdm5meGpxZGlsZjQyMmlicGtrc2R3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RoOozGUtMbJOE/giphy.gif" alt="Cool GIF" />
 </div>
   
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F6F6&width=435&lines=Tuturu" alt="Typing SVG"
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F6F6&width=435&lines=Tuturu" alt="Typing SVG" />
   </a>
 </div>
+
 
 
 
