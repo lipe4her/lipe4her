@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00000&section=header"/>
 
-<head>
   <samp>
     <b>
       サイトの削除
@@ -8,7 +7,7 @@
       <br>
       Hi there! I'm Lipe!
       <br>
-      </head>
+     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=21&pause=1000&color=F7F7F7&width=500&height=100&lines=Do+i+wanna+know%3F;if+this+feeling+flows+both+ways;sad+to+see+you+go...)](https://git.io/typing-svg)
 
 
