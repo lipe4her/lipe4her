@@ -21,7 +21,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/vW7XHSU" width="200">
+  <img src="https://tenor.com/vxkuUcfbfwU.gif" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-black" />
